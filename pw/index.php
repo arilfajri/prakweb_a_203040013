@@ -94,7 +94,7 @@ $buku = $rows;
   <div class="container pt-5">
     <div class="row pt-5">
       <div class="col">
-        <h2 class="pt text-white justify text-center">Daftar Buku</h2>
+        <h2 class="pt text-white justify text-center">Daftar Buku Terbaik Di Universe</h2>
         <hr class="text-white">
       </div>
       <div class="add justify text-center">
