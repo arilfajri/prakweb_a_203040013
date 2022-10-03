@@ -36,7 +36,7 @@ function upload()
   // cek type file
   if ($tipe_file != 'image/jpeg' && $tipe_file != 'image/png') {
     echo "<script>
-          alert('yang anda pilih bukan gambar');
+          alert('yang anda pilih bukan gambarr');
           </script>";
     return false;
   }
@@ -45,7 +45,7 @@ function upload()
   // maks 5 mb
   if ($ukuran_file > 5000000) {
     echo "<script>
-          alert('ukuran terlalu besar');
+          alert('ukuran terlalu besarr');
           </script>";
     return false;
   }
