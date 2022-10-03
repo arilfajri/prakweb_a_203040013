@@ -125,19 +125,10 @@ if (isset($_POST["tambah"])) {
   <!-- icon -->
   <link rel="shortcut icon" href="../asset/img/icon.png" type="image/png">
 
-  <title>Tambah Data</title>
-  <style>
-    body {
-      background-color: #0c111b;
-      font-family: 'Poppins', sans-serif;
-    }
+  <!-- css -->
+  <link rel="stylesheet" href="style.css">
 
-    .card {
-      width: 400px;
-      background-color: #121926;
-      box-shadow: 0px 1px 8px 1px rgba(255, 255, 255, 0.548);
-    }
-  </style>
+  <title>Tambah Data</title>
 </head>
 
 <body>

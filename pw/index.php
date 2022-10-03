@@ -39,41 +39,11 @@ $buku = $rows;
   <!-- icon -->
   <link rel="shortcut icon" href="../asset/img/icon.png" type="image/png">
 
+  <!-- css -->
+  <link rel="stylesheet" href="style.css">
+
   <title>Daftar Buku</title>
-  <style>
-    body {
-      background-color: #0c111b;
-      font-family: 'Poppins', sans-serif;
-    }
 
-    .navbar {
-      background-color: #121926;
-    }
-
-    .nav-link {
-      font-weight: 400;
-    }
-
-    nav {
-      box-shadow: 0px 4px 6px -1px rgba(255, 255, 255, 0.3);
-      z-index: 9999;
-    }
-
-    .add {
-      margin-left: 5px;
-    }
-
-    .kembali {
-      margin-left: 5px;
-    }
-
-    .navbar-brand h3 {
-      font-family: 'Zen Dots';
-      color: #ffffff;
-      text-shadow: 0px 0px 10px rgb(0, 162, 255);
-
-    }
-  </style>
 </head>
 
 <body>

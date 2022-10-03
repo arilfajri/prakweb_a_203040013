@@ -150,20 +150,11 @@ function upload()
   <!-- icon -->
   <link rel="shortcut icon" href="../asset/img/icon.png" type="image/png">
 
+  <!-- css -->
+  <link rel="stylesheet" href="style.css">
+
   <title>Ubah Data</title>
 
-  <style>
-    body {
-      background-color: #0c111b;
-      font-family: 'Poppins', sans-serif;
-    }
-
-    .card {
-      width: 400px;
-      background-color: #121926;
-      box-shadow: 0px 1px 8px 1px rgba(255, 255, 255, 0.548);
-    }
-  </style>
 </head>
 
 <body>
